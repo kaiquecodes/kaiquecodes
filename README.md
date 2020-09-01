@@ -1,5 +1,5 @@
 # Olá👋
-Sou Kaíque Machado, estudante de Engenharia da Computação na Universidade Federal do Rio Grande do Norte(UFRN), natural de Recife-PE.
+Sou Kaíque Machado, estudante de Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN), natural de Recife-PE. 
 
 # Tecnologias⚡
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
