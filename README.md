@@ -1,6 +1,7 @@
 # Olá👋
 Sou Kaíque Machado, estudante de Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN), natural de Recife-PE. 
-[Acesse minha página pessoal.](https://kaiquecodes.github.io/)
+
+Página pessoal: https://kaiquecodes.github.io
 
 [![Gmail Badge](https://img.shields.io/badge/-kaique.engcomp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaique.engcomp@gmail.com)](mailto:kaique.engcomp@gmail.com) |  [![Linkedin Badge](https://img.shields.io/badge/-KaíqueMachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquegm)](https://www.linkedin.com/in/kaiquecodes) 
 
