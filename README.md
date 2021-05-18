@@ -3,7 +3,7 @@ Sou Kaíque Machado, estudante de Engenharia da Computação na Universidade Fed
 
 Página pessoal: https://kaiquecodes.github.io
 
-[![Gmail Badge](https://img.shields.io/badge/-kaique.engcomp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaique.engcomp@gmail.com)](mailto:kaique.engcomp@gmail.com) |  [![Linkedin Badge](https://img.shields.io/badge/-KaíqueMachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquegm)](https://www.linkedin.com/in/kaiquecodes) 
+[![Gmail Badge](https://img.shields.io/badge/-kaique.engcomp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaique.engcomp@gmail.com)](mailto:kaique.engcomp@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-KaíqueMachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquegm)](https://www.linkedin.com/in/kaiquecodes) 
 
 # Tecnologias⚡
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
