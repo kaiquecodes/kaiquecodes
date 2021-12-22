@@ -26,11 +26,8 @@
     
 </div>
   
- <center>
-
-![your image caption](/images/image.jpg)
-
-</center>
+ <div align="center" >
+ <img src="/images/image.jpg">
+ </div>
   
-<!-- <div> 
-  -->
+
